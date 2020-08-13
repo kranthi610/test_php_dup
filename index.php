@@ -31,5 +31,12 @@ Enter Second Number:
 echo "The sum of $number1 and $number2 is: ".$sum;   
 }  
 ?>
+<script>
+
+var hi = "hello";
+
+</script>
+
+
 </body>  
 </html> 
